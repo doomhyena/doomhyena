@@ -1,4 +1,5 @@
-- 👋 Sziasztok! Fluke vagyok!
-- 👀 Érdekel a programozás a cheat-ek írása.
-- 🌱 Jelenleg HTML, CSS, Javascript, Typecsript és egy kicsit tudok Java nyelven programozni.
+- 👋 Sziasztok! 
+- 🔭 I’m currently working on my Website
+- 🌱  I’m currently learning Programming. (HTML, CSS, PHP, Typescript, Javascript)
+- 🇭🇺 Hungarian
 - 📫 Discord: FLUK3#3172
