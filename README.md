@@ -1,5 +1,10 @@
-- 👋 Sziasztok! 
-- 🔭 I’m currently working on my Website
-- 🌱  I’m currently learning Programming. (HTML, CSS, PHP, Typescript, Javascript)
-- 🇭🇺 Hungarian
+- 👋 Hey! 
+- 🔭 I’m currently working on my Website and Discord bot.
+- 👤 My name is FLUK3 oder Fluke.
+- 🌱 I’m currently learning Programming. (HTML, CSS, PHP, Typescript, Javascript)
+- ♈ I'm Aries.
+- 💤 Lazy.
+- 🇭🇺 Hungarian programmer.
+- 💻 Lok around to see if you find anything interesting for yourself!
 - 📫 Discord: FLUK3#3172
+- 📫 Guilded: FLUK3/FLUK3#3172
