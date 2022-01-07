@@ -1,7 +1,7 @@
 - 👋 Hey! 
 - 🔭 I’m currently working on my Website and Discord bot.
 - 👤 My name is FLUK3 oder Fluke.
-- 🌱 I’m currently learning Programming. (HTML, CSS, PHP, Typescript, Javascript)
+- 🌱 I’m currently learning Programming. (HTML, CSS, PHP, Typescript, Javascript, Python)
 - ♈ I'm Aries.
 - 💤 Lazy.
 - 🇭🇺 Hungarian programmer.
