@@ -1,10 +1,11 @@
 - 👋 Hey! 
-- 🔭 I’m currently working on my Website and Discord bot.
-- 👤 My name is FLUK3 oder Fluke.
-- 🌱 I’m currently learning Programming. (HTML, CSS, PHP, Typescript, Javascript, Python)
+- 🔭 I’m currently working on my Website.
+- 👤 My name is Fluke/Haiden.
+- 🌱 HTML, CSS, Javascript, Python, C#
 - ♈ I'm Aries.
 - 💤 Lazy.
 - 🇭🇺 Hungarian programmer.
 - 💻 Lok around to see if you find anything interesting for yourself!
-- 📫 Discord: FLUK3#3172
-- 📫 Guilded: FLUK3/FLUK3#3172
+- 📫 Discord: Fluke#1271.
+- 📽️ Small content creator on youtube.
+- 👀 17 years old.
