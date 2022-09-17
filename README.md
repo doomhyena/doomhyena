@@ -1,6 +1,6 @@
 - 👋 Hey! 
 - 👤 My name is Fluke/Haiden.
-- 🌱 HTML, CSS, Javascript, Python,
+- 🌱 HTML, CSS, Javascript, Python
 - ♈ I'm Aries.
 - 💤 Lazy.
 - 🇭🇺 Hungarian programmer.
