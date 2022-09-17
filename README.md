@@ -1,5 +1,4 @@
 - 👋 Hey! 
-- 🔭 I’m currently working on my Website.
 - 👤 My name is Fluke/Haiden.
 - 🌱 HTML, CSS, Javascript, Python, C#
 - ♈ I'm Aries.
