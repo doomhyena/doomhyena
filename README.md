@@ -13,4 +13,3 @@
 - 🛹 Skateboarder 
 - 🇭🇺 Hungarian
 - 📸Snap: tessausgod
-- 🙋‍♂️ Fluke/Haiden 
