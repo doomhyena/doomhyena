@@ -6,6 +6,12 @@
 - 💤 Lazy.
 - 🇭🇺 Hungarian programmer.
 - 💻 Lok around to see if you find anything interesting for yourself!
-- 📫 Discord: Fluke#1271.
+- 📫 Discord: Fluke055#1271.
 - 📽️ Small content creator on youtube.
 - 👀 17 years old.
+- 🎂 4 April 2005 
+- 👤 ESTJ 
+- 🛹 Skateboarder 
+- 🇭🇺 Hungarian
+- 📸Snap: tessausgod
+- 🙋‍♂️ Fluke/Haiden 
