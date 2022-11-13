@@ -1,15 +1,13 @@
 - 👋 Hey! 
-- 👤 My name is Fluke/Haiden.
+- 👤 Just call me Thomas/Connor/Haiden
 - 🌱 HTML, CSS, Javascript, Python
-- ♈ I'm Aries.
+- ♈ Aries.
 - 💤 Lazy.
-- 🇭🇺 Hungarian programmer.
 - 💻 Lok around to see if you find anything interesting for yourself!
-- 📫 Discord: Fluke055#1271.
+- 📫 Discord: 𝕄𝕣.𝕄𝕒𝕘𝕞𝕒𝕤𝕥𝕖𝕣#1271
 - 📽️ Small content creator on youtube.
 - 👀 17 years old.
 - 🎂 4 April 2005 
-- 👤 ESTJ 
+- 👤 ESTP
 - 🛹 Skateboarder 
 - 🇭🇺 Hungarian
-- 📸Snap: tessausgod
