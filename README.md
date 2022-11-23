@@ -4,7 +4,7 @@
 - ♈ Aries.
 - 💤 Lazy.
 - 💻 Lok around to see if you find anything interesting for yourself!
-- 📫 Discord: 𝕄𝕣.𝕄𝕒𝕘𝕞𝕒𝕤𝕥𝕖𝕣#1271
+- 📫 Discord: Natsuki#5480
 - 📽️ Small content creator on youtube.
 - 👀 17 years old.
 - 🎂 4 April 2005 
