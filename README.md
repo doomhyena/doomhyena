@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Natsuki</h1>
+<h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A developer from Hungary</h3>
 
 - 🔭 I’m currently working on **CommanderBot**
 
-- 📫 How to reach me **takayamanatsuki305@gmail.com**
+- 📫 How to reach me **thomashenderson305@gmail.com**
 
 - ⚡ Fun fact **Skateboarder**
 <p align="left">
