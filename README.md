@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A developer from Hungary</h3>
 
-- 🔭 I’m currently working on **CommanderBot**
+- 🔭 I’m currently working on **CommanderBot, Tyrion**
 
 - 🌱 I’m currently learning **C#**
-
-- 📝 I regularly write articles on [https://www.wattpad.com/user/Commanderasd](https://www.wattpad.com/user/Commanderasd)
 
 - 📫 How to reach me **thomashenderson305@gmail.com**
 
