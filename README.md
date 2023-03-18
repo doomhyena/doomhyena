@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **thomashenderson305@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shadowrage_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadowrage_" height="30" width="40" /></a>
