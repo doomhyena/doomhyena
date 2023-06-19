@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, PHP**
 
-- 💬 Ask me about **C#, Javascript,Python**
+- 💬 Ask me about **C#, Javascript, Python**
 
 - 📫 How to reach me **thomashenderson305@gmail.com**
 
