@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C#, Javascript, Python**
 
-- 📫 How to reach me **thomashenderson305@gmail.com**
+- 📫 How to reach me **kaidavidson05@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
