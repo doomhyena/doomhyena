@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doomhyena</h1>
 <h3 align="center">A developer from Hungary 🇭🇺</h3>
 
-- 🔭 I’m currently working on **RangerBot**
-
 - 🌱 I’m currently learning **C#, PHP**
 
 - 💬 Ask me about **C#, Javascript, Python**
