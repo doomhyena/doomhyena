@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doomhyena&show_icons=true&locale=en&layout=compact" alt="doomhyena" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doomhyena&show_icons=true&locale=en" alt="doomhyena" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doomhyena&" alt="doomhyena" /></p>
