@@ -1,18 +1,17 @@
-# Doomhyena - GitHub Profil 🚀
+# Doomhyena - GitHub Profile 🚀
 
-Szia! 👋 Üdvözöllek a GitHub profilomon. Engedd meg, hogy bemutassam magam röviden.
+Hello! 👋 Welcome to my GitHub profile. Let me introduce myself briefly.
 
-## Rövid Bemutatkozás
+## Short Introduction
 
-- **Felhasználónév:** Doomhyena
-- **Ország:** Magyarország
-- **Iskola:** Petőfi Sándor Gimnázium
-- **Származás:** Magyar
-- **Kedvelt Nyelvek:** Python, Javascript
+- **Username:** Doomhyena
+- **Country:** Hungary
+- **School:** Petőfi Sándor Highschool
+- **Favorite Languages:** Python, Javascript
 
-## Nyelvek 💻
+## Languages 💻
 
-Jól mozgok a kódok között, a következő nyelveken:
+I navigate through codes proficiently in the following languages:
 
 - Python 🐍
 - Javascript 💡
@@ -21,24 +20,24 @@ Jól mozgok a kódok között, a következő nyelveken:
 - CSS 🎨
 - PHP 🚀
 
-## Projektek 🛠️
+## Projects 🛠️
 
 ### RangerBot
 
-Jelenleg a RangerBot fejlesztésével foglalkozom, egy Discord bot, amelyben a barátaimmal együtt dolgozunk.
+Currently, I'm working on the development of RangerBot, a Discord bot where my friends and I collaborate.
 
-## Tanulás 📚
+## Learning 📚
 
-Éppen két nyelvet tanulok:
+I am currently learning two languages:
 
-- Angol 🌍
-- Német 🇩🇪
+- English 🌍
+- German 🇩🇪
 
-## Kapcsolat 📬
+## Contact 📬
 
-Ha bármi kérdésed van, vagy csak beszélgetnél egy kicsit, keress nyugodtan:
+If you have any questions or just want to chat, feel free to reach out:
 
 - Email: [doomhyena@proton.me](mailto:doomhyena@proton.me)
 - Discord: doomhyena
 
-Köszönöm, hogy benéztél! 😊
+Thank you for stopping by! 😊
