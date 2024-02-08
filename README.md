@@ -7,7 +7,7 @@ Hello! 👋 Welcome to my GitHub profile. Let me introduce myself briefly.
 - **Username:** Doomhyena
 - **Country:** Hungary
 - **School:** [Petőfi Sándor Roman Catholic Primary School and High School](https://petofivecses.hu/)
-- **Favorite Languages:** Python, Javascript
+- **Favorite Languages:** Python, C#
 
 ## Languages 💻
 
