@@ -24,7 +24,11 @@ I navigate through codes proficiently in the following languages:
 
 ### RangerBot
 
-Currently, I'm working on the development of RangerBot, a Discord bot where my friends and I collaborate.
+I'm working on the development of RangerBot too, a Discord bot where my friends and I collaborate. The main developer is @aki
+
+### Hungarian Archer Budapest and Pest County Region
+
+This is a official website of Hungarian Archer Budapest and Pest County Region, this my first unique project
 
 ## Learning 📚
 
