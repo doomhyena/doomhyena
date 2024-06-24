@@ -6,7 +6,7 @@ Hello! 👋 Welcome to my GitHub profile. Let me introduce myself briefly.
 
 - **Username:** Doomhyena
 - **Country:** Hungary
-- **Languages:** Hungarian, english, german, russian, japanese
+- **Languages:** Hungarian, english, german
 - **School:** - 
 - **Hobbies:** Videogames, programming
 
