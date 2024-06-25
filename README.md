@@ -17,9 +17,6 @@ I navigate through codes proficiently in the following languages:
 - Python 🐍
 - Javascript 💡
 - C# 🎮
-- HTML 🌐
-- CSS 🎨
-- React.js 🚀
 
 ## Projects 🛠️
 
