@@ -7,7 +7,7 @@ Hello! 👋 Welcome to my GitHub profile. Let me introduce myself briefly.
 - **Username:** Doomhyena
 - **Country:** Hungary
 - **Languages:** Hungarian, english, german
-- **School:** - 
+- **School:** [Schola Europa Academy](http://www.schola.esa.hu)
 - **Hobbies:** Videogames, programming
 
 ## Languages 💻
@@ -16,7 +16,7 @@ I navigate through codes proficiently in the following languages:
 
 - Python 🐍
 - Javascript 💡
-- C# 🎮
+- C# 🎮2
 
 ## Projects 🛠️
 
