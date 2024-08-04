@@ -24,6 +24,10 @@ I navigate through codes proficiently in the following languages:
 
 I'm working on the development of RangerBot too, a Discord bot where my friends and I collaborate. The main developer is @aki
 
+### Frontline: Heroes' Road
+
+Frontline: Heroes' Road is an exciting 2D platformer game set during World War II.
+
 ## Contact 📬
 
 If you have any questions or just want to chat, feel free to reach out:
