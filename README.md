@@ -16,7 +16,7 @@ I navigate through codes proficiently in the following languages:
 
 - Python 🐍
 - Javascript 💡
-- C# 🎮2
+- C# 🎮
 
 ## Projects 🛠️
 
