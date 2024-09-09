@@ -14,9 +14,12 @@ Hello! 👋 Welcome to my GitHub profile. Let me introduce myself briefly.
 
 I navigate through codes proficiently in the following languages:
 
-- Python 🐍
-- Javascript 💡
-- C# 🎮
+- Python 
+- C# 
+- JavaScript 
+- Java
+
+
 
 ## Projects 🛠️
 
