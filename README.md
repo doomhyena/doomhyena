@@ -38,7 +38,8 @@ If you have any questions or just want to chat, feel free to reach out:
 
 ## Stats
 
-anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats
+![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![doomhyena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=doomhyena&theme=prussian&hide_border=true)
+![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 Thank you for stopping by! 😊
