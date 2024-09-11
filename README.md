@@ -1,6 +1,6 @@
-# Doomhyena - GitHub Profile 🚀
+# Doomhyena - GitHub Profile 
 
-Hello! 👋 Welcome to my GitHub profile. Let me introduce myself briefly.
+Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
 
 ## Short Introduction
 
@@ -10,7 +10,7 @@ Hello! 👋 Welcome to my GitHub profile. Let me introduce myself briefly.
 - **School:** [Schola Europa Academy](https://scholaeu.hu)
 - **Hobbies:** Videogames, programming
 
-## Languages 💻
+## Languages 
 
 I navigate through codes proficiently in the following languages:
 
@@ -18,8 +18,6 @@ I navigate through codes proficiently in the following languages:
 - C# 
 - JavaScript 
 - Java
-
-
 
 ## Projects 🛠️
 
@@ -31,11 +29,16 @@ I'm working on the development of RangerBot too, a Discord bot where my friends 
 
 Frontline: Heroes' Road is an exciting 2D platformer game set during World War II.
 
-## Contact 📬
+## Contact 
 
 If you have any questions or just want to chat, feel free to reach out:
 
 - Email: [doomhyenaofficial@gmail.com](mailto:doomhyenaofficial@gmail.com)
 - Discord: @doomhyena
+
+## Stats
+
+anuraghazra/github-readme-stats
+DenverCoder1/github-readme-streak-stats
 
 Thank you for stopping by! 😊
