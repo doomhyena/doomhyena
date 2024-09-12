@@ -34,8 +34,8 @@ Frontline: Heroes' Road is an exciting 2D platformer game set during World War I
 If you have any questions or just want to chat, feel free to reach out:
 
 - Email: [doomhyenaofficial@gmail.com](mailto:doomhyenaofficial@gmail.com)
-- Discord: @doomhyena
 - Website: [Link](https://doomhyena.hu/)
+- Discord: @doomhyena
 
 ## Stats
 
