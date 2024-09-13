@@ -6,6 +6,7 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
 
 - **Username:** Doomhyena
 - **Country:** Hungary
+- **City:** Budapest
 - **Languages:** Hungarian, english, german
 - **School:** [Schola Europa Academy](https://scholaeu.hu)
 - **Hobbies:** Videogames, programming
@@ -33,10 +34,6 @@ If you have any questions or just want to chat, feel free to reach out:
 ## Stats
 
   ![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-
-
-
-  ![doomhyena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=doomhyena&theme=prussian&hide_border=true)
 
 
 
