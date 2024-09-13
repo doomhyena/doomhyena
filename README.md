@@ -14,11 +14,9 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
 
 I navigate through codes proficiently in the following languages:
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+[![My Skills](https://skillicons.dev/icons?i=arch,bootstrap,cs,css,discordjs,git,html,java,js,nodejs,py,)](https://skillicons.dev)
 
 ## Projects 🛠️
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### RangerBot
 
