@@ -34,9 +34,6 @@ If you have any questions or just want to chat, feel free to reach out:
 ## Stats
 
   ![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-
-
-
   ![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 Thank you for stopping by! 😊
