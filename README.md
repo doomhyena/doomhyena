@@ -14,7 +14,7 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
 
 I navigate through codes proficiently in the following languages:
 
-[(https://skillicons.dev/icons?i=cs,css,discordjs,git,html,java,js,nodejs,py)]
+[(https://skillicons.dev/icons?i=cs,css,discordjs,git,html,java,js,nodejs,py)](https://skillicons.dev)
 
 ## Projects 🛠️
 
