@@ -14,10 +14,8 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
 
 I navigate through codes proficiently in the following languages:
 
-- Python 
-- C# 
-- JavaScript 
-- Java
+<i class="devicon-archlinux-plain colored"></i>
+          
 
 ## Projects 🛠️
 
