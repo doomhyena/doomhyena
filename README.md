@@ -18,6 +18,8 @@ I navigate through codes proficiently in the following languages:
 
 ## Projects 🛠️
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### RangerBot
 
 I'm working on the development of RangerBot too, a Discord bot where my friends and I collaborate. The main developer is @aki
