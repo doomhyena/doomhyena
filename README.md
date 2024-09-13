@@ -14,8 +14,7 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
 
 I navigate through codes proficiently in the following languages:
 
-<i class="devicon-archlinux-plain colored"></i>
-          
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ## Projects 🛠️
 
