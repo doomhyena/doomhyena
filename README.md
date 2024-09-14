@@ -15,13 +15,20 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
 
 I navigate through codes proficiently in the following languages:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,css,discordjs,git,html,java,js,nodejs,py)](https://skillicons.dev)
+- C#
+- CSS
+- Discord.js
+- Git
+- HTML
+- Java
+- NodeJS
+- Python
 
 ## Projects 🛠️
 
 ### RangerBot
 
-I'm working on the development of RangerBot too, a Discord bot where my friends and I collaborate. The main developer is @aki
+I'm working on the development of RangerBot too, a Discord bot where my friends and I collaborate. The main developer is [@aki](https://github.com/aggiczy)
 
 ## Contact 
 
