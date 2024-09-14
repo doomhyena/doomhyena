@@ -13,8 +13,6 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
 
 ## Languages 
 
-I navigate through codes proficiently in the following languages:
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>
