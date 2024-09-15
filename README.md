@@ -1,17 +1,18 @@
-# Doomhyena - GitHub Profile 
+# 👾 Doomhyena - GitHub Profile 
 
-Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
+Hey there! 👋 Welcome to my GitHub profile. I'm Doomhyena, a passionate programmer and tech enthusiast. Here's a bit more about me:
 
-## Short Introduction
+## 👤 About Me
 
 - **Username:** Doomhyena
-- **Country:** Hungary
-- **City:** Budapest
-- **Languages:** Hungarian, english, german
-- **School:** [Schola Europa Academy](https://scholaeu.hu)
-- **Hobbies:** Videogames, programming
+- **Location:** 🌍 Budapest, Hungary
+- **Languages I Speak:** 🇭🇺 Hungarian | 🇬🇧 English | 🇩🇪 German
+- **Education:** [Schola Europa Academy](https://scholaeu.hu)
+- **Hobbies:** 🎮 Videogames | 👨‍💻 Coding | 🤖 Tech exploration
 
-## Languages 
+## 🚀 Skills & Languages
+
+I enjoy experimenting with different languages and frameworks. Here’s a quick look at the technologies I’m familiar with:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>
@@ -23,7 +24,9 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-## What I'm using for coding
+## 💻 Tools I Use
+
+From coding to managing projects, here are the tools that make my workflow smoother:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" width="50" height="50"/>
@@ -35,11 +38,11 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
 
-## Projects 🛠️
+## 🛠️ Projects 
 
-### RangerBot
+### 🦾 RangerBot
 
-I'm working on the development of RangerBot too, a Discord bot where my friends and I collaborate. The main developer is [@aki](https://github.com/aggiczy)
+One of my favorite projects is **RangerBot**, a Discord bot where my friends and I collaborate. While the main development is led by [@aki](https://github.com/aggiczy), I'm actively contributing to the project.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="doomhyena's Stats" />
@@ -52,3 +55,5 @@ I'm working on the development of RangerBot too, a Discord bot where my friends 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="doomhyena's Top Languages" />
 </div>
+
+Feel free to check out my repos or drop a message if you're interested in collaborating! 🚀
