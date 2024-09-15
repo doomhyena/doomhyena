@@ -43,6 +43,10 @@ I'm working on the development of RangerBot too, a Discord bot where my friends 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="doomhyena's Stats" />
+
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=doomhyena&theme=vue-dark&hide_border=true" alt="doomhyena's Streak" />
+
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="doomhyena's Top Languages" />
 </div>
