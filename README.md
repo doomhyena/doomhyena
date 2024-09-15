@@ -41,8 +41,8 @@ Hello! Welcome to my GitHub profile. Let me introduce myself briefly.
 
 I'm working on the development of RangerBot too, a Discord bot where my friends and I collaborate. The main developer is [@aki](https://github.com/aggiczy)
 
-
-![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-
+![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![doomhyena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=doomhyena&theme=vue-dark&hide_border=true)
+![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 Thank you for stopping by! 😊
