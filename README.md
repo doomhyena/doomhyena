@@ -57,3 +57,9 @@ One of my favorite projects is **RangerBot**, a Discord bot where my friends and
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="doomhyena's Top Languages" />
 </div>
+
+## 📊 Contact me!
+
+<p>
+  [![Discord](https://cdn.simpleicons.org/discord/000000)](https://github.com)
+</p>
