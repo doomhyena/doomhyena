@@ -42,9 +42,9 @@ From coding to managing projects, here are the tools that make my workflow smoot
 
 ### 🦾 RangerBot
 
-## 📊 Stats
-
 One of my favorite projects is **RangerBot**, a Discord bot where my friends and I collaborate. While the main development is led by [@aki](https://github.com/aggiczy), I'm actively contributing to the project.
+
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="doomhyena's Stats" />
