@@ -42,6 +42,8 @@ From coding to managing projects, here are the tools that make my workflow smoot
 
 ### 🦾 RangerBot
 
+## 📊 Stats
+
 One of my favorite projects is **RangerBot**, a Discord bot where my friends and I collaborate. While the main development is led by [@aki](https://github.com/aggiczy), I'm actively contributing to the project.
 
 <div align="center">
