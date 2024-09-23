@@ -7,7 +7,7 @@ Hey there! 👋 Welcome to my GitHub profile. I'm Doomhyena, a passionate progra
 - **Username:** Doomhyena
 - **Location:** 🌍 Budapest, Hungary
 - **Languages I Speak:** 🇭🇺 Hungarian | 🇬🇧 English | 🇩🇪 German
-- **Education:** [Schola Europa Academy](https://scholaeu.hu)
+- **School:** [Schola Europa Academy](https://scholaeu.hu)
 - **Hobbies:** 🎮 Videogames | 👨‍💻 Coding
 
 ## 🚀 Skills & Languages
