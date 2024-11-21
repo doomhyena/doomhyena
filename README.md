@@ -59,6 +59,10 @@ From coding to managing projects, here are the tools that make my workflow smoot
 
 One of my favorite projects is **RangerBot**, a Discord bot where my friends and I collaborate. While the main development is led by [@aki](https://github.com/aggiczy), I'm actively contributing to the project.
 
+### 📎 [My Website](https://doomhyena.hu/)
+
+This is the first website I have created to present my project work and to introduce myself. You are currently watching and reading this.
+
 ## 📊 Stats
 
 <div align="center">
