@@ -62,7 +62,7 @@ One of my favorite projects is **RangerBot**, a Discord bot where my friends and
 
 ### 📎 [My Website](https://doomhyena.hu/)
 
-This is the first website I have created to present my project work and to introduce myself. You are currently watching and reading this.
+This is the first website I have created to present my project work and to introduce myself.
 
 ## 📊 Stats
 
