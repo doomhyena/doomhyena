@@ -63,7 +63,7 @@ One of my favorite projects is **RangerBot**, a Discord bot where my friends and
 
 This is the first website I have created to present my project work and to introduce myself.
 
-### [Java Projects](https://github.com/doomhyena/Java-Projektek)
+### ☕ [Java Projects](https://github.com/doomhyena/Java-Projektek)
 
 This github repository was created to collect all my java projects in one place.
 
