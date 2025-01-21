@@ -3,10 +3,15 @@
 
 <div align="center">
   - 🔭 I’m currently working on [Java Projektek](https://github.com/doomhyena/Java-Projektek)
+  
   - 👯 I’m looking to collaborate on [PayTrack](https://github.com/doomhyena/paytrack)
+    
   - 🌱 I’m currently learning **Typescript, React, Kotlin**
+    
   - 👨‍💻 All of my projects are available at [https://doomhyena.hu/](https://doomhyena.hu/)
+    
   - 💬 Ask me about **Java, C#, Python**
+    
   - 📫 How to reach me **doomhyena.contact@proton.me**
 </div>
 
