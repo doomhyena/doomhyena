@@ -2,8 +2,9 @@
 <h3 align="center">A Software Developer- and Tester & Web Developer from Hungary</h3>
 
 <div align="center">
-🔭 I’m currently working on [Java Projektek](https://github.com/doomhyena/Java-Projektek)
-  
+
+🔭 I’m currently working on [Java Projects](https://github.com/doomhyena/Java-Projektek)
+
 👯 I’m looking to collaborate on [PayTrack](https://github.com/doomhyena/paytrack)
     
 🌱 I’m currently learning **Typescript, React, Kotlin**
@@ -13,6 +14,7 @@
 💬 Ask me about **Java, C#, Python**
     
 📫 How to reach me **doomhyena.contact@proton.me**
+
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
