@@ -19,7 +19,11 @@
 <div align="center">
 
 ![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![doomhyena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=doomhyena&theme=vue-dark&hide_border=true)
+
+</div>
+
+<div align="center">
+  
 ![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
