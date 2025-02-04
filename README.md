@@ -35,9 +35,9 @@
 ![doomhyena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=doomhyena&theme=vue-dark&hide_border=false)
 
 ![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-  
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doomhyena&label=Profile%20views&color=0e75b6&style=flat" alt="doomhyena" /> </p>
 
 <p align="left"> <a href="https://twitter.com/doomhyena05" target="blank"><img src="https://img.shields.io/twitter/follow/doomhyena05?logo=twitter&style=for-the-badge" alt="doomhyena05" /></a> </p>
+  
+</div>
