@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, React, Kotlin**
 
-- 👯 I’m looking to collaborate on [PayTrack](https://github.com/doomhyena/paytrack)
+- 👯 I’m looking to collaborate on ???
 
 - 👨‍💻 All of my projects are available at [https://doomhyena.hu/](https://doomhyena.hu/)
 
