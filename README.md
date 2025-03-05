@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on [Java Projects](https://github.com/doomhyena/Java-Projektek)
 
-- 🌱 I’m currently learning **Typescript, React, Kotlin**
+- 🌱 I’m currently learning **C, C++, Frontend, Kotlin, PHP**
 
-- 👯 I’m looking to collaborate on ???
-
-- 👨‍💻 All of my projects are available at [https://doomhyena.hu/](https://doomhyena.hu/)
-
-- 💬 Ask me about **Java, C#, Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **doomhyena.contact@proton.me**
 
