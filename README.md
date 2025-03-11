@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm doomhyena</h1>
 <h3 align="center">A Software Developer- and Tester & Web/Game Developer from Hungary</h3>
 
-- 🔭 I’m currently working on [Java Projects](https://github.com/doomhyena/Java-Projektek)
+- 🔭 I’m currently working on: [Java Projects](https://github.com/doomhyena/Java-Projektek)
 
-- 🌱 I’m currently learning **C, C++, Frontend, Kotlin, PHP**
+- 🌱 I’m currently learning: **C, C++, Frontend, Kotlin, PHP**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about: **Java**
 
-- 📫 How to reach me **doomhyena.contact@proton.me**
+- 📫 How to reach me: **doomhyena.contact@proton.me**
+
+- ⚡ Fun fact: **I speak 3 languages**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -28,6 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40"/>
