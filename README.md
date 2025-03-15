@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Java Projects](https://github.com/doomhyena/Java-Projektek), [Script Studio](https://github.com/doomhyena/scriptstudio)
 
-- 🌱 I’m currently learning: **C, C++, Frontend, Kotlin, PHP**
+- 🌱 I’m currently learning: **C, C++, Frontend, Backend, Kotlin**
 
 - 💬 Ask me about: **Java**
 
