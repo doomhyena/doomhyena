@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm doomhyena</h1>
-<h3 align="center">A Software Developer- and Tester & Web/Game Developer from Hungary</h3>
+<h3 align="center">A Software Developer- and Tester & Game Developer from Hungary</h3>
 
 - 🔭 I’m currently working on: [Java Projects](https://github.com/doomhyena/Java-Projektek), [Script Studio](https://github.com/doomhyena/scriptstudio)
 
