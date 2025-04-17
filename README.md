@@ -65,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="40" height="40"/>
 </p>  
 
-![doomhyena's Stats](img/DoomhyenasStats.png)
+![Doomhyena's Stats](img/DoomhyenasStats.png)
 
 <div align="center">
 
