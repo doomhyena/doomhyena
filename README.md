@@ -15,6 +15,8 @@
 - [RangerBot](https://rangerbot.hu)
 
 - [NoteShare](https://github.com/doomhyena/NoteShare)
+  
+- [Hungarian names](https://github.com/doomhyena/hungarian-names)
 
 ![Languages and Tools](img/LanguagesandTools.png)
 
