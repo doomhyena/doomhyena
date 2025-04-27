@@ -12,7 +12,7 @@
 
 ![Projects](img/Projects.png)
 
-- [RangerBot](https://rangerbot.hu)
+- [doomhyena.hu](https://github.com/doomhyena/doomhyena.hu)
 
 - [NoteShare](https://github.com/doomhyena/NoteShare)
   
