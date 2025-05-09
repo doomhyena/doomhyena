@@ -14,9 +14,9 @@
 
 - [doomhyena.hu](https://github.com/doomhyena/doomhyena.hu)
 
-- [NoteShare](https://github.com/doomhyena/NoteShare)
-  
-- [Hungarian names](https://github.com/doomhyena/hungarian-names)
+- [RangerBot](https://github.com/aggiczy/RangerBot)
+
+- [Zentry](https://github.com/doomhyena/Zentry)
 
 ![Languages and Tools](img/LanguagesandTools.png)
 
