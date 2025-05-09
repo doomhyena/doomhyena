@@ -2,9 +2,9 @@
 
 <h3 align="center">A Software Developer- and Tester & Game Developer from Hungary</h3>
 
-- 🌱 I’m currently learning: **C, C++, Frontend, Backend, Kotlin**
+- 🌱 I’m currently learning: **PHP, Java, Kotlin, Typescript**
 
-- 💬 Ask me about: **Java**
+- 💬 Ask me about: **JavaScript**
 
 - 📫 How to reach me: **doomhyena.contact@proton.me**
 
