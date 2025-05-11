@@ -19,6 +19,10 @@
 
 - [NoteShare](https://github.com/doomhyena/NoteShare)
 
+- [Zentry](https://github.com/doomhyena/Zentry)
+
+
+
 ![Languages and Tools](img/LanguagesandTools.png)
 
 <p align="left"> 
