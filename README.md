@@ -5,11 +5,11 @@
 <h3 align="center">A Software Developer- and Tester & Game Developer from Hungary</h3>
 
 
-- 🌱 I’m currently learning: **C, C++, Frontend, Backend, Kotlin**
+- 🌱 I’m currently learning: **PHP, Java, Kotlin, TypeScript**
 
-- 💬 Ask me about: **Java**
+- 💬 Ask me about: **Javascript**
 
-- 📫 How to reach me: **doomhyena.contact@proton.me**
+- 📫 How to reach me: **doomhyena.contact@proton.me** or **https://doomhyena.hu/**
 
 - ⚡ Fun fact: **I speak 3 languages**
 
@@ -83,7 +83,7 @@
 
 ![Connect with me](img/Connectwithme.png)
 
-<p align="left">
+<p align="center">
   <a href="https://codepen.io/doomhyena05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="doomhyena05" height="30" width="40" /></a>
   <a href="https://twitter.com/doomhyena05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doomhyena05" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/csontoskincso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csontoskincso" height="30" width="40" /></a>
