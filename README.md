@@ -110,7 +110,7 @@
 
 ### 🛠️ Other
 
-[![Cisco Packet Tracer](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)](https://www.cisco.com/site/us/en/products/index.html)
+[![Cisco Packet Tracer](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/products/index.html)
 
 ![Doomhyena's Stats](img/DoomhyenasStats.png)
 
