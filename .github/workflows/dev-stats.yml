@@ -1,0 +1,17 @@
+name: Dev Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # minden nap éjfélkor frissít
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Dev Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TOTAL_CODE_TIME: "true"
