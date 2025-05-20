@@ -16,8 +16,8 @@
 
 - ⚡ Fun fact **I speak 3 languages**
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 ![Projects](img/Projects.png)
 
@@ -29,6 +29,8 @@
 
 
 ![Languages and Tools](img/LanguagesandTools.png)
+
+<div align="center">
 
 ### 🌐 Browser
 
@@ -114,6 +116,8 @@
 ### 🛠️ Other
 
 [![Cisco Packet Tracer](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/products/index.html)
+
+</div>
 
 ![Doomhyena's Stats](img/DoomhyenasStats.png)
 
