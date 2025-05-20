@@ -16,8 +16,8 @@
 
 - ⚡ Fun fact **I speak 3 languages**
 
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Projects](img/Projects.png)
 
