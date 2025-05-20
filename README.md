@@ -1,17 +1,20 @@
 ![Banner](img/Doomhyenabanner.png)
 
 
-<h1 align="center">Hi 👋, I'm doomhyena</h1>
+<h1 align="center">Hi 👋, I'm Kincső!</h1>
 <h3 align="center">A Software Developer- and Tester & Game Developer from Hungary</h3>
 
+- 🔭 I’m currently working on [NoteShare](https://github.com/doomhyena/NoteShare)
 
-- 🌱 I’m currently learning: **PHP, Java, Kotlin, TypeScript**
+- 🌱 I’m currently learning **PHP, Java, Kotlin, TypeScript**
 
-- 💬 Ask me about: **Javascript**
+- 👨‍💻 All of my projects are available at [doomhyena.hu](https://doomhyena.hu/)
 
-- 📫 How to reach me: **doomhyena.contact@proton.me** or **https://doomhyena.hu/**
+- 💬 Ask me about **JavaScript**
 
-- ⚡ Fun fact: **I speak 3 languages**
+- 📫 How to reach me **doomhyena.contact@proton.me**
+
+- ⚡ Fun fact **I speak 3 languages**
 
 ![Projects](img/Projects.png)
 
@@ -24,14 +27,12 @@
 
 ![Languages and Tools](img/LanguagesandTools.png)
 
-### 🛠️ TOOLS
-
-#### 🌐 Browser
+### 🌐 Browser
 
 [![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](https://arc.net/)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
 
-#### 💻 Code Editor
+### 💻 Code Editor
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
@@ -40,23 +41,23 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](https://www.jetbrains.com/webstorm/)
 
-#### ⛈️ Database
+### ⛈️ Database
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
 
-#### 🎨 Design
+### 🎨 Design
 
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](https://www.gimp.org/)
 
-#### 📄 Documentation
+### 📄 Documentation
 
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://readme.io/)
 
-#### 🖼️ Framework
+### 🖼️ Framework
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
@@ -68,32 +69,32 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/)
 
-#### 🕹️ Game Engine
+### 🕹️ Game Engine
 
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/)
 
-#### 🎮 Gaming Storefront
+### 🎮 Gaming Storefront
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://store.steampowered.com/)
 
-#### 💼 Job
+### 💼 Job
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/)
 
-#### 🖥️ Operating System
+### 🖥️ Operating System
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org/)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 
-#### 📦 Package Manager
+### 📦 Package Manager
 
 [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](https://getcomposer.org/)
 [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](https://www.nuget.org/)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/)
 
-#### 🧑‍💻 Programming Language
+### 🧑‍💻 Programming Language
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -106,6 +107,10 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+
+### 🛠️ Other
+
+[![Cisco Packet Tracer](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)](https://www.cisco.com/site/us/en/products/index.html)
 
 ![Doomhyena's Stats](img/DoomhyenasStats.png)
 
@@ -121,7 +126,7 @@
 
 ![Connect with me](img/Connectwithme.png)
 
-<p align="center">
+<div align="center">
   
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/864583234158460938)
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/doomhyena)
@@ -132,7 +137,7 @@
   [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/doomhyena)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@doomhyena)
   
-</p>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=doomhyena&label=Profile%20views&color=0e75b6&style=flat" alt="doomhyena" /> </p>
 
