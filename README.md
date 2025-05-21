@@ -17,6 +17,38 @@
 - ⚡ Fun fact **I speak 3 languages**
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 715.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 3,755 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C#                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/doomhyena/doomhyena/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/05/2025 00:58:03 UTC
 <!--END_SECTION:waka-->
 
 ![Projects](img/Projects.png)
