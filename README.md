@@ -17,13 +17,13 @@
 - ⚡ Fun fact **I speak 3 languages**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 715.3 kB Used in GitHub's Storage 
+> 📦 732.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,755 Contributions in the Year 2025
+> 🏆 3,763 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,7 +48,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/doomhyena/doomhyena/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 00:58:03 UTC
+ Last Updated on 22/05/2025 00:57:41 UTC
 <!--END_SECTION:waka-->
 
 ![Projects](img/Projects.png)
