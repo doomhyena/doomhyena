@@ -19,7 +19,7 @@ jobs:
           SHOW_OS: true
           SHOW_PROJECTS: true
           SHOW_EDITORS: true
-          SHOW_LANGUAGES: true
+          SHOW_LANGUAGES: false
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_LINES_OF_CODE: true
           SHOW_PROFILE_VIEWS: false
