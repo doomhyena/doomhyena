@@ -44,6 +44,13 @@ JavaScript               2 repos             ██░░░░░░░░░�
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/doomhyena/doomhyena/main/assets/bar_graph.png)
+
+
 <!--END_SECTION:waka-->
 
 ![Projects](img/Projects.png)
