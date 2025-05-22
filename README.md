@@ -17,20 +17,23 @@
 - ⚡ Fun fact **I speak 3 languages**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
-> 📦 732.9 kB Used in GitHub's Storage 
- > 
-> 🏆 3,763 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -48,7 +51,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/doomhyena/doomhyena/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 00:57:41 UTC
 <!--END_SECTION:waka-->
 
 ![Projects](img/Projects.png)
