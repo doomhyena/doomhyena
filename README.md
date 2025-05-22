@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I speak 3 languages**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
@@ -43,6 +43,13 @@ HTML                     3 repos             ███░░░░░░░░�
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/doomhyena/doomhyena/main/assets/bar_graph.png)
+
 
 <!--END_SECTION:waka-->
 
