@@ -1,7 +1,8 @@
 ![Banner](img/Doomhyenabanner.png)
 
 
-<h1 align="center">Hi 👋, I'm Kincső!</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kincső
+====================================================================================================================================
 <h3 align="center">A Software Developer- and Tester & Game Developer from Hungary</h3>
 
 - 🔭 I’m currently working on [NoteShare](https://github.com/doomhyena/NoteShare)
