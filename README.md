@@ -18,13 +18,37 @@
 - ⚡ Fun fact **I speak 3 languages**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 733.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 3,778 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                907 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+🌆 Daytime                4780 commits        █████████████████░░░░░░░░   68.59 % 
+🌃 Evening                1266 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Europe/Budapest
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -32,6 +56,9 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -46,10 +73,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/doomhyena/doomhyena/main/assets/bar_graph.png)
 
 
 <!--END_SECTION:waka-->
