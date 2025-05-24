@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I speak 3 languages**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
@@ -26,7 +26,7 @@
 
 > 📦 733.2 kB Used in GitHub's Storage 
  > 
-> 🏆 3,778 Contributions in the Year 2025
+> 🏆 3,780 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,16 +50,24 @@
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      39 mins             ███████████░░░░░░░░░░░░░░   43.27 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+CSS                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+C#                       9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 20 mins        ██████████████████████░░░   89.18 % 
+Visual Studio            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+doomhyena.hu-Dev         42 mins             ████████████░░░░░░░░░░░░░   47.22 % 
+School-projects          27 mins             ████████░░░░░░░░░░░░░░░░░   30.69 % 
+gyak                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+citrom                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
