@@ -1,7 +1,7 @@
 ![Banner](img/Doomhyenabanner.png)
 
 <h1 align="center">
-  Hi, My name is Kincső Csontos      
+  Hi 👋, My name is Kincső Csontos!
 </h1>
 <h3 align="center">A Software Developer- and Tester & Game Developer from Hungary</h3>
 
