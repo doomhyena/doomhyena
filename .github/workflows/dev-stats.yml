@@ -19,7 +19,7 @@ jobs:
           SHOW_OS: true
           SHOW_PROJECTS: true
           SHOW_EDITORS: true
-          SHOW_LANGUAGES: false
+          SHOW_LANGUAGES: true
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_LINES_OF_CODE: true
           SHOW_PROFILE_VIEWS: false
@@ -27,6 +27,6 @@ jobs:
           SHOW_DAYS_OF_WEEK: false
           SHOW_SHORT_INFO: true
           SHOW_LOC_CHART: false
-          SHOW_UPDATED_DATE: false
+          SHOW_UPDATED_DATE: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_TIME: true
