@@ -1,21 +1,30 @@
 ![Banner](img/Doomhyenabanner.png)
 
-<h1 align="center">
-  Hi 👋, My name is Kincső Csontos!
-</h1>
-<h3 align="center">A Software Developer- and Tester & Game Developer from Hungary</h3>
+```markdown
+░█▀▄░█▀▀░█▀▀░█▀▀░█░█░█▀█░█▄█░█▀▀
+░█▀▄░█▀▀░▀▀█░▀▀█░█░█░█░█░█░█░▀▀█
+░▀▀░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀
+─────────────────────────────────
+OS: Arch Linux btw 🐧  (or Win 10/11)
+Host: ThinkPad L15 Gen 2  
+Kernel: chaotic-good  
+Uptime: túl sok beadandó  
+Packages: VSCode, Godot, IntelliJ, Notion  
+Shell: bash  
+Resolution: retina-searing  
+DE: Grit & Coffee  
+WM: Task switching overload  
+Terminal Font: JetBrains Mono  
+CPU: kávé és káromkodás  
+GPU: “miért nem indul a Godot?!”  
+Memory: 8GB RAM, 98% kreatív ötlet  
+Disk: 250GB SSD, 99% projekt.txt
 
-- 🔭 I’m currently working on [NoteShare](https://github.com/doomhyena/NoteShare)
-
-- 🌱 I’m currently learning **PHP, Java, Kotlin, TypeScript**
+[doomhyena@github] ~$ echo "Kódolj, ne sírj." 💻
+```
 
 - 👨‍💻 All of my projects are available at [doomhyena.hu](https://doomhyena.hu/)
 
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **doomhyena.contact@proton.me**
-
-- ⚡ Fun fact **I speak 3 languages**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%201%20min-blue)
