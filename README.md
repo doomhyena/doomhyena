@@ -97,8 +97,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 ![Languages and Tools](img/LanguagesandTools.png)
 
-<div align="center">
-
 ### 🌐 Browser
 
 [![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](https://arc.net/)
@@ -184,8 +182,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 [![Cisco Packet Tracer](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/products/index.html)
 
-</div>
-
 ![Doomhyena's Stats](img/DoomhyenasStats.png)
 
 <div align="center">
@@ -199,20 +195,16 @@ TypeScript               1 repo              █░░░░░░░░░░�
 </div>
 
 ![Connect with me](img/Connectwithme.png)
-
-<div align="center">
   
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/864583234158460938)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/doomhyena)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/doomhyena/)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/csontoskincso)
-  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/doomhyena/)
-  [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@doomhyena)
-  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/doomhyena)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@doomhyena)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/864583234158460938)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/doomhyena)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/doomhyena/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/csontoskincso)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/doomhyena/)
+[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@doomhyena)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/doomhyena)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@doomhyena)
   
-</div>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=doomhyena&label=Profile%20views&color=0e75b6&style=flat" alt="doomhyena" /> </p>
 
 <p align="center"> <a href="https://twitter.com/doomhyena05" target="blank"><img src="https://img.shields.io/twitter/follow/doomhyena05?logo=twitter&style=for-the-badge" alt="doomhyena05" /></a> </p>
