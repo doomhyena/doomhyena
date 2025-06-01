@@ -115,12 +115,12 @@ TypeScript               1 repo              █░░░░░░░░░░�
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.com/)
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://readme.io/)
 
-## 🎓 Education
+### 🎓 Education
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](https://www.codewars.com/)
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](https://www.w3schools.com/)
 
-## 💸 Funding
+### 💸 Funding
 
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://www.paypal.com/)
 
