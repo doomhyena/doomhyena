@@ -1,28 +1,5 @@
 ![Banner](img/Doomhyenabanner.png)
 
-```markdown
-░█▀▄░█▀▀░█▀▀░█▀▀░█░█░█▀█░█▄█░█▀▀
-░█▀▄░█▀▀░▀▀█░▀▀█░█░█░█░█░█░█░▀▀█
-░▀▀░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀
-─────────────────────────────────
-OS: Arch Linux btw 🐧  (or Win 10/11)
-Host: ThinkPad L15 Gen 2  
-Kernel: chaotic-good  
-Uptime: túl sok beadandó  
-Packages: VSCode, Godot, IntelliJ, Notion  
-Shell: bash  
-Resolution: retina-searing  
-DE: Grit & Coffee  
-WM: Task switching overload  
-Terminal Font: JetBrains Mono  
-CPU: kávé és káromkodás  
-GPU: “miért nem indul a Godot?!”  
-Memory: 8GB RAM, 98% kreatív ötlet  
-Disk: 250GB SSD, 99% projekt.txt
-
-[doomhyena@github] ~$ echo "Kódolj, ne sírj." 💻
-```
-
 - 👨‍💻 All of my projects are available at [doomhyena.hu](https://doomhyena.hu/)
 
 
@@ -110,7 +87,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 ### 🌐 Browser
 
-[![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](https://arc.net/)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
 
 ### 💻 Code Editor
@@ -136,17 +112,31 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 ### 📄 Documentation
 
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.com/)
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://readme.io/)
+
+## 🎓 Education
+
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](https://www.codewars.com/)
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](https://www.w3schools.com/)
+
+## 💸 Funding
+
+[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://www.paypal.com/)
 
 ### 🖼️ Framework
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](https://angular.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](https://www.chartjs.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](https://jquery.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](https://laravel.com/)
+[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/)
 
@@ -157,10 +147,12 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 ### 🎮 Gaming Storefront
 
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://itch.io/)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://store.steampowered.com/)
 
 ### 💼 Job
 
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](https://www.fiverr.com/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/)
 
 ### 🖥️ Operating System
@@ -179,6 +171,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev/)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
