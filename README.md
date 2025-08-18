@@ -74,9 +74,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 - [RangerBot](https://rangerbot.hu)
 
-- [NoteShare](https://github.com/doomhyena/NoteShare)
-
-- [Zentry](https://github.com/doomhyena/Zentry)
+- [Jegyzetár](https://jegyzetar.eu/)
 
 
 ![Languages and Tools](img/LanguagesandTools.png)
