@@ -80,42 +80,42 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Languages and Tools](img/LanguagesandTools.png)
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unity.svg" width="40" height="40" alt="Unity Hub"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudio.svg" width="40" height="40" alt="Visual Studio"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg" width="40" height="40" alt="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/godotengine.svg" width="40" height="40" alt="Godot"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/filezilla.svg" width="40" height="40" alt="FileZilla"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" width="40" height="40" alt="Blender"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cisco.svg" width="40" height="40" alt="Cisco"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xampp.svg" width="40" height="40" alt="XAMPP"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/brave.svg" width="40" height="40" alt="Brave"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unity.svg?color=white" width="40" height="40" alt="Unity Hub"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudio.svg?color=white" width="40" height="40" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg?color=white" width="40" height="40" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/godotengine.svg?color=white" width="40" height="40" alt="Godot"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/filezilla.svg?color=white" width="40" height="40" alt="FileZilla"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg?color=white" width="40" height="40" alt="Blender"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg?color=white" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg?color=white" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cisco.svg?color=white" width="40" height="40" alt="Cisco"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xampp.svg?color=white" width="40" height="40" alt="XAMPP"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/brave.svg?color=white" width="40" height="40" alt="Brave"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" width="40" height="40" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg" width="40" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jquery.svg" width="40" height="40" alt="jQuery"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="40" height="40" alt="JSON"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kotlin.svg" width="40" height="40" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/markdown.svg" width="40" height="40" alt="Markdown"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg?color=white" width="40" height="40" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg?color=white" width="40" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg?color=white" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg?color=white" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jquery.svg?color=white" width="40" height="40" alt="jQuery"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg?color=white" width="40" height="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg?color=white" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg?color=white" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg?color=white" width="40" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg?color=white" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg?color=white" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg?color=white" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg?color=white" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg?color=white" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg?color=white" width="40" height="40" alt="JSON"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kotlin.svg?color=white" width="40" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/markdown.svg?color=white" width="40" height="40" alt="Markdown"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg?color=white" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg?color=white" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg?color=white" width="40" height="40" alt="TypeScript"/>
 </p>
 
 ![Doomhyena's Stats](img/DoomhyenasStats.png)
