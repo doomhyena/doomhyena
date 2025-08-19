@@ -1,146 +1,50 @@
-![Banner](img/Doomhyenabanner.png)
+<h1 align="center">Hi 👋, I'm Anastasia</h1>
+<h3 align="center">A Software Developer and Tester student from Hungary</h3>
 
-- 👨‍💻 All of my projects are available at [doomhyena.hu](https://doomhyena.hu/)
+- 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
+- 🌱 I’m currently learning **Angular, React.js, Java, Kotlin, PHP, Laravel TypeScript**
+- 👨‍💻 All of my projects are available at [here](https://doomhyena.hu/projects.php)
+- 💬 Ask me about **C#**
+- 📫 How to reach me: **doomhyena.contact@proton.me**
+- 📄 Know about my experiences: [here](https://doomhyena.hu)
+- 🏆 I love contributing to open source and collaborating on new ideas!
+- 🚀 Always looking for opportunities to learn and grow as a developer.
+- ⚡Fun fact: I like photography
 
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2018%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.8%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 712.5 kB Used in GitHub's Storage 
- > 
-> 🏆 3,884 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                999 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-🌆 Daytime                5100 commits        █████████████████░░░░░░░░   67.83 % 
-🌃 Evening                1396 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Budapest
-
-💬 Programming Languages: 
-PHP                      1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.27 % 
-Python                   49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-JavaScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-SQL                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-BookBase-Dev             2 hrs 3 mins        ██████████████░░░░░░░░░░░   55.48 % 
-Scripts                  50 mins             ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-meseijaszok.hu           48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-
-💻 Operating System: 
-Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
-
-
-
- Last Updated on 10/08/2025 01:07:13 UTC
-<!--END_SECTION:waka-->
-
-![Projects](img/Projects.png)
-
-- [RangerBot](https://rangerbot.hu)
-
-- [Jegyzetár](https://jegyzetar.eu/)
-
-
-![Languages and Tools](img/LanguagesandTools.png)
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unity.svg?color=white" width="40" height="40" alt="Unity Hub"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudio.svg?color=white" width="40" height="40" alt="Visual Studio"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg?color=white" width="40" height="40" alt="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/godotengine.svg?color=white" width="40" height="40" alt="Godot"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/filezilla.svg?color=white" width="40" height="40" alt="FileZilla"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg?color=white" width="40" height="40" alt="Blender"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg?color=white" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg?color=white" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cisco.svg?color=white" width="40" height="40" alt="Cisco"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xampp.svg?color=white" width="40" height="40" alt="XAMPP"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/brave.svg?color=white" width="40" height="40" alt="Brave"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
+    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg?color=white" width="40" height="40" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg?color=white" width="40" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg?color=white" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg?color=white" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jquery.svg?color=white" width="40" height="40" alt="jQuery"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg?color=white" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg?color=white" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg?color=white" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg?color=white" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg?color=white" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg?color=white" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg?color=white" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg?color=white" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg?color=white" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg?color=white" width="40" height="40" alt="JSON"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kotlin.svg?color=white" width="40" height="40" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/markdown.svg?color=white" width="40" height="40" alt="Markdown"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg?color=white" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg?color=white" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg?color=white" width="40" height="40" alt="TypeScript"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.youtube.com/c/doomhyena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="doomhyena" height="30" width="40" /></a>
+    <a href="https://twitter.com/doomhyena05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
-![Doomhyena's Stats](img/DoomhyenasStats.png)
-
-<div align="center">
-
-  ![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-  
-  ![doomhyena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=doomhyena&theme=vue-dark&hide_border=false)
-  
-  ![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-    
-</div>
-
-![Connect with me](img/Connectwithme.png)
-  
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/864583234158460938)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/doomhyena)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/doomhyena/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/csontoskincso)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/doomhyena/)
-[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@doomhyena)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/doomhyena)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@doomhyena)
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=doomhyena&label=Profile%20views&color=0e75b6&style=flat" alt="doomhyena" /> </p>
-
-<p align="center"> <a href="https://twitter.com/doomhyena05" target="blank"><img src="https://img.shields.io/twitter/follow/doomhyena05?logo=twitter&style=for-the-badge" alt="doomhyena05" /></a> </p>
