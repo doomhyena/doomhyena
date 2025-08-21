@@ -39,7 +39,7 @@
 </div>
 
 <h3 align="center">Statistics:</h3>
-<p align="center">
+<div align="center">
 
 ![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
@@ -47,7 +47,7 @@
 
 ![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-</p>
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/doomhyena05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doomhyena05" height="30" width="40" /></a>
