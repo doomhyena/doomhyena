@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
 - 🌱 I’m currently learning **Angular, React.js, Java, Kotlin, PHP, Laravel, TypeScript**
 - 👨‍💻 All of my projects are available at [here](https://doomhyena.hu/projects.php)
-- 💬 Ask me about **C#**
+- 💬 Ask me about **C#, Python, JavaScript**
 - 📫 How to reach me: **doomhyena.contact@proton.me**
 - 📄 Know about my experiences: [here](https://doomhyena.hu)
 - 🏆 I love contributing to open source and collaborating on new ideas!
