@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer and Tester student from Hungary</h3>
 
 - 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
-- 🌱 I’m currently learning **Angular, React.js, Java, Kotlin, PHP, Laravel, TypeScript**
+- 🌱 I’m currently learning **React.js, Java, PHP, Laravel, TypeScript**
 - 👨‍💻 All of my projects are available at [here](https://doomhyena.hu/projects.php)
 - 💬 Ask me about **C#, Python, JavaScript**
 - 📫 How to reach me: **doomhyena.contact@proton.me**
