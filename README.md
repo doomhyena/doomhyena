@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
 
-- 🌱 I’m currently learning **Dart, Java, Kotlin, PHP, React.js, TypeScript**
+- 🌱 I’m currently learning **Java, Kotlin, PHP, React.js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [doomhyena.hu](https://doomhyena.hu/)
 
