@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
 
-- 🌱 I’m currently learning **Java, Kotlin, PHP, React.js, TypeScript**
+- 🌱 I’m currently learning **Kotlin, PHP, React.js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [doomhyena.hu](https://doomhyena.hu/)
 
-- 💬 Ask me about **C#, JavaScript, Python**
+- 💬 Ask me about **Java, C#, JavaScript, Python**
 
 - 📫 How to reach me **doomhyena.contact@proton.me**
 
