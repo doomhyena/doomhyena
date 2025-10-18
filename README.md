@@ -14,9 +14,13 @@
 - 📄 Know about my experiences [doomhyena.hu](https://doomhyena.hu/projects.php)
 
 <h3>Repo help:</h3>
+
 `[F]inished`
+
 `[U]nfinished`
+
 `[A]bandoned`
+
 `[S]pecial`
 
 <h3 align="center">Languages and Tools:</h3>
