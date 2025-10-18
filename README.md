@@ -17,6 +17,8 @@
 
 `[F]inished`
 
+`[D]eveloping`
+
 `[U]nfinished`
 
 `[A]bandoned`
