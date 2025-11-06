@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
 
-- 🌱 I’m currently learning **React.js, Spring Boot, Docker**
+- 🌱 I’m currently learning **React.js, Spring Boot, Docker, Rust**
 
 - 👨‍💻 All of my projects are available at [doomhyena.hu](https://doomhyena.hu/)
 
