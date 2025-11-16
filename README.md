@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, C#, JavaScript, Python**
 
-- 📫 How to reach me **doomhyena.contact@proton.me**
+- 📫 How to reach me **csontoskincso@doomhyena.hu**
 
 - 📄 Know about my experiences [doomhyena.hu](https://doomhyena.hu/projects.php)
 
