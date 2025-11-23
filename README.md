@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
-<h3 align="center">A Software Developer- and Tester student from Hungary</h3>
+<h3 align="center">A Software Developer- and Tester student & IT systems and application operations technician from Hungary</h3>
 
 - 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
 - 🌱 I’m currently learning **React.js, Spring Boot, Docker, Rust**
@@ -10,9 +10,13 @@
 <h3>Repo help:</h3>
 
 `[F]inished`
+
 `[D]eveloping`
+
 `[U]nfinished`
+
 `[A]bandoned`
+
 `[S]pecial`
 
 <h3 align="center">Languages and Tools:</h3>
