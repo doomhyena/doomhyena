@@ -72,7 +72,9 @@
 <div align="center">
 
 ![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
 ![doomhyena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=doomhyena&theme=dark&hide_border=false)
+
 ![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 </div>
