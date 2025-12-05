@@ -2,9 +2,15 @@
 <h3 align="center">A Software Developer- and Tester & IT systems and application operations technician student from Hungary</h3>
 
 - 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
-- 🌱 I’m currently learning **React.js, Spring Boot, Docker, Rust**
-- 👨‍💻 All of my projects are available at [doomhyena.hu](https://doomhyena.hu/)
-- 💬 Ask me about **Java, C#, JavaScript, Python**
+
+- 🌱 I’m currently learning **Docker, React.js, Spring Boot, Rust**
+
+- 👯 I’m looking to collaborate on [ByteKnight](https://github.com/doomhyena/ByteKnight)
+
+- 👨‍💻 All of my projects are available at [https://doomhyena.hu](https://doomhyena.hu)
+
+- 💬 Ask me about **JavaScript, Python**
+
 - 📫 How to reach me **csontoskincso@doomhyena.hu**
 
 <h3>Repo help:</h3>
@@ -87,5 +93,5 @@
 <a href="https://www.youtube.com/c/doomhyena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="doomhyena" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/doomhyenaoffici1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="doomhyenaoffici1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/doomhyena05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doomhyena05" height="30" width="40" /></a>
-<a href="https://discord.gg/hwwCgM59Pd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hwwCgM59Pd" height="30" width="40" /></a>
+<a href="https://discord.gg/XFte257XBc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XFte257XBc" height="30" width="40" /></a>
 </p>
