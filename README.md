@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
-<h3 align="center">A Software Developer- and Tester & IT systems and application operations technician student from Hungary</h3>
+<h3 align="center">A Software Engineering Student & Systems Engineer Student from Hungary</h3>
 
 - 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
 
