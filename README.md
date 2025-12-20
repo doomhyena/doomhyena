@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, React.js, Spring Boot, Rust**
 
-- 👯 I’m looking to collaborate on [ByteKnight](https://github.com/doomhyena/ByteKnight)
+- 👯 I’m looking to collaborate on **Currently Nothing**
 
 - 👨‍💻 All of my projects are available at [https://doomhyena.hu](https://doomhyena.hu)
 
