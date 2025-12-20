@@ -9,17 +9,17 @@ I am passionate about learning new languages and technologies, and I consider my
 
 <h2 align="center">Relevant projects:</h2>
 
-<h3> [Backend-portfolio](https://github.com/doomhyena/Backend-portfolio) </h3> 
+<h3><a href="https://github.com/doomhyena/AutoOrganizer">AutoOrganizer</a></h3>
+
+All-in-one file organizer / renamer / backup / duplicate finder app in JavaFX.
+
+<h3><a href="https://github.com/doomhyena/Backend-portfolio">Backend-portfolio</a></h3> 
 
 A collection of PHP-focused portfolio projects – smaller web apps and basic frontends added to them. Clean, transparent code, lots of mini-solutions where I show how I build a working web thing from scratch.
 
-<h3> [BookBase](https://github.com/doomhyena/BookBase) </h3>
+<h3><a href="https://github.com/doomhyena/BookBase">BookBase</a></h3>
 
 BookBase is a modern, user-friendly online book platform that allows users to browse and rate books, interact with the community, and customize their profiles.
-
-<h3> [AutoOrganizer](https://github.com/doomhyena/AutoOrganizer) </h3>
-
-All-in-one file organizer / renamer / backup / duplicate finder app in JavaFX.
 
 <h2>Repo help:</h2>
 
