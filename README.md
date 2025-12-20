@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
-<h3 align="center">A Software Engineering Student & Systems Engineer Student from Hungary</h3>
+<h2 align="center">A Software Engineering Student & Systems Engineer Student from Hungary</h2>
 
-- 🔭 I’m currently working on [Jegyzetár](https://jegyzetar.eu/)
+I have been studying as a Software Developer and Tester/Software Engineering at [Schola Europa Academy](https://scholaeu.hu/) since September 2024, but since November 2025, I have also been a student at the [Bláthy Otto Titus IT Secondary School](https://blathy.bmszc.hu/), where I am studying to become a Systems Engineer/System Administrator. Beyond my studies, I spend my free time working on personal projects and continuously expanding my knowledge.
 
-- 🌱 I’m currently learning **Docker, React.js, Spring Boot, Rust**
+I am comfortable working both independently and as part of a team, and throughout my academic journey I have been actively involved in various school projects. I always strive to give my best and view constructive feedback as a valuable opportunity for growth.
 
-- 👯 I’m looking to collaborate on **Currently Nothing**
+I am passionate about learning new languages and technologies, and I consider myself a motivated, fast learner who adapts quickly to similar tools and concepts.
 
-- 👨‍💻 All of my projects are available at [https://doomhyena.hu](https://doomhyena.hu)
+<h2 align="center">Relevant projects:</h2>
 
-- 💬 Ask me about **JavaScript, Python**
+<h3> [Backend-portfolio](https://github.com/doomhyena/Backend-portfolio) </h3> 
 
-- 📫 How to reach me **csontoskincso@doomhyena.hu**
+A collection of PHP-focused portfolio projects – smaller web apps and basic frontends added to them. Clean, transparent code, lots of mini-solutions where I show how I build a working web thing from scratch.
 
-<h3>Repo help:</h3>
+<h3> [BookBase](https://github.com/doomhyena/BookBase) </h3>
+
+BookBase is a modern, user-friendly online book platform that allows users to browse and rate books, interact with the community, and customize their profiles.
+
+<h3> [AutoOrganizer](https://github.com/doomhyena/AutoOrganizer) </h3>
+
+All-in-one file organizer / renamer / backup / duplicate finder app in JavaFX.
+
+<h2>Repo help:</h2>
 
 `[F]inished`
 
@@ -25,7 +33,7 @@
 
 `[S]pecial`
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge\&logo=android-studio\&logoColor=white)
@@ -74,7 +82,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-<h3 align="center">Statistics:</h3>
+<h2 align="center">Statistics:</h2>
 <div align="center">
 
 ![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=dark&show_icons=true&hide_border=false&count_private=true)
@@ -84,7 +92,7 @@
 ![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 </div>
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/doomhyena05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doomhyena05" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25722312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25722312" height="30" width="40" /></a>
