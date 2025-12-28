@@ -25,10 +25,10 @@ Online book platform with user profiles, ratings, and community features.
 ## Core Stack
 
 - **Languages:** Java, PHP, JavaScript, C#, Python  
-- **Backend:** REST API  
+- **Backend:** REST API, ASP.NET  
 - **Databases:** MySQL, MongoDB  
 - **Frontend:** React, TailwindCSS  
-- **Tools:** Git, IntelliJ IDEA, PhpStorm, Linux/Windows
+- **Tools:** Git, Visual Studio Code, Visual Studio, JetBrains IDEs, Linux/Windows
 
 ---
 
