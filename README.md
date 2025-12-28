@@ -21,7 +21,8 @@ Online book platform with user profiles, ratings, and community features.
 **Tech:** PHP, MySQL, JS, HTML/CSS
 
 ### [MÁVTracker](https://github.com/doomhyena/MAVTracker)
-This project is a real-time, web-based map application that displays the current position, speed, and delays of Hungarian State Railways (MÁV) trains. The application obtains the necessary data from MÁV's GraphQL-based API.
+This project is a real-time, web-based map application that displays the current position, speed, and delays of Hungarian State Railways (MÁV) trains. 
+The application obtains the necessary data from MÁV's GraphQL-based API.
 **Tech:** PHP, MySQL, JS, HTML/CSS, MÁV GraphQL API
 
 ---
