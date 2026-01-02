@@ -1,6 +1,6 @@
 # Anastasia
 
-Software engineering student with a backend focus (Java, PHP), currently expanding into system administration.  
+Software engineer student with a backend focus (Java, PHP), currently expanding into Systems Engineering.  
 I build practical tools, backend-heavy applications, and small systems that solve real problems.
 
 ---
