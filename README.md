@@ -1,55 +1,72 @@
-# Anastasia
+# Anastasia 👾
 
-Software engineer student with a backend focus (Java, PHP), currently expanding into Systems Engineering.  
-I build practical tools, backend-heavy applications, and small systems that solve real problems.
+Backend-focused software engineering student with a strong interest in systems, automation, and real-world problem solving.  
+Currently working mainly with **Java** and **PHP**, while expanding into **Systems Engineering** and infrastructure-level concepts.
 
 ---
 
-## Selected Projects
+## 🎮 Active Projects
 
-### [AutoOrganizer](https://github.com/doomhyena/AutoOrganizer)
-JavaFX desktop application for file organization, renaming, backups, and duplicate detection.  
+### 🔹 [AutoOrganizer](https://github.com/doomhyena/AutoOrganizer) `[D]`
+JavaFX desktop application for advanced file organization, renaming, backups, and duplicate detection.  
+Built as a productivity-focused tool using multithreaded processing and direct filesystem access.  
 **Tech:** Java, JavaFX, filesystem APIs, multithreading
 
-### [Backend-portfolio](https://github.com/doomhyena/Backend-portfolio)
-Collection of PHP-based backend projects with minimal frontends.  
-Focus on clean structure, reusable logic, and building complete features from scratch.  
+### 🔹 [Backend Portfolio](https://github.com/doomhyena/Backend-portfolio) `[D]`
+Collection of backend-heavy PHP projects with minimal frontends.  
+Focused on clean architecture, reusable logic, and fully implemented features.  
 **Tech:** PHP, MySQL, JavaScript
 
-### [BookBase](https://github.com/doomhyena/BookBase)
-Online book platform with user profiles, ratings, and community features.  
-**Tech:** PHP, MySQL, JS, HTML/CSS
+### 🔹 [BookBase](https://github.com/doomhyena/BookBase) `[U]`
+Online book platform with user profiles, ratings, and community-oriented features.  
+**Tech:** PHP, MySQL, JavaScript, HTML/CSS
 
-### [MÁVTracker](https://github.com/doomhyena/MAVTracker)
-This project is a real-time, web-based map application that displays the current position, speed, and delays of Hungarian State Railways (MÁV) trains. 
-The application obtains the necessary data from MÁV's GraphQL-based API.<br>
-**Tech:** PHP, MySQL, JS, HTML/CSS, MÁV GraphQL API
-
----
-
-## Core Stack
-
-- **Languages:** Java, PHP, JavaScript, C#, Python  
-- **Backend:** REST API, ASP.NET  
-- **Databases:** MySQL, MongoDB  
-- **Frontend:** React, TailwindCSS  
-- **Tools:** Git, Visual Studio Code, Visual Studio, JetBrains IDEs, Linux/Windows
+### 🔹 [MÁVTracker](https://github.com/doomhyena/MAVTracker) `[S]`
+Real-time web-based map application displaying live train positions, speed, and delays for Hungarian State Railways (MÁV).  
+Data is retrieved from MÁV’s GraphQL-based API.  
+**Tech:** PHP, JavaScript, MySQL, GraphQL API
 
 ---
 
-## Repository Status Legend
+## ⏱️ Weekly Coding Activity
 
-- `[F]` Finished / maintained  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🧠 Core Stack
+
+**Languages**  
+Java · PHP · JavaScript · C# · Python  
+
+**Backend & Systems**  
+REST APIs · ASP.NET · Backend-focused PHP architecture  
+
+**Databases**  
+MySQL · MongoDB
+
+**Frontend**  
+React · TailwindCSS · Bootstrap  
+
+**Tooling & Environment**  
+Git · Linux / Windows · VS Code · Visual Studio · JetBrains IDEs  
+
+---
+
+## 📌 Repository Status Legend
+
 - `[D]` Actively developing  
+- `[F]` Finished / maintained  
 - `[U]` Unfinished / paused  
+- `[S]` Special  
 - `[A]` Abandoned  
-- `[S]` Experimental
 
 ---
 
-## Links
+## 🔗 Links
 
-- Discord: https://discordapp.com/users/864583234158460938
 - GitHub: https://github.com/doomhyena  
-- Stack Overflow: https://stackoverflow.com/users/25722312
+- Stack Overflow: https://stackoverflow.com/users/25722312  
+- Discord: https://discordapp.com/users/864583234158460938  
 - Email: csontoskincso@doomhyena.hu
