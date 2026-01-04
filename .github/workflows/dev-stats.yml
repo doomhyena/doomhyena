@@ -2,7 +2,7 @@ name: Dev Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # minden nap éjfélkor frissít
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
