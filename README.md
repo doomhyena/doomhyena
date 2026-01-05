@@ -7,7 +7,7 @@ Currently working mainly with **Java** and **PHP**, while expanding into **Syste
 
 ## 🎮 Active Projects
 
-### 🔹 [AutoOrganizer](https://github.com/doomhyena/AutoOrganizer) `[D]`
+### 🔹 [AutoOrganizer](https://github.com/doomhyena/AutoOrganizer) `[F]`
 JavaFX desktop application for advanced file organization, renaming, backups, and duplicate detection.  
 Built as a productivity-focused tool using multithreaded processing and direct filesystem access.  
 **Tech:** Java, JavaFX, filesystem APIs, multithreading
@@ -17,11 +17,11 @@ Collection of backend-heavy PHP projects with minimal frontends.
 Focused on clean architecture, reusable logic, and fully implemented features.  
 **Tech:** PHP, MySQL, JavaScript
 
-### 🔹 [BookBase](https://github.com/doomhyena/BookBase) `[U]`
+### 🔹 [BookBase](https://github.com/doomhyena/BookBase) `[F]`
 Online book platform with user profiles, ratings, and community-oriented features.  
 **Tech:** PHP, MySQL, JavaScript, HTML/CSS
 
-### 🔹 [MÁVTracker](https://github.com/doomhyena/MAVTracker) `[S]`
+### 🔹 [MÁVTracker](https://github.com/doomhyena/MAVTracker) `[F]`
 Real-time web-based map application displaying live train positions, speed, and delays for Hungarian State Railways (MÁV).  
 Data is retrieved from MÁV’s GraphQL-based API.  
 **Tech:** PHP, JavaScript, MySQL, GraphQL API
