@@ -1,7 +1,7 @@
 # Anastasia 👾
 
-Backend-focused software engineering student with a strong interest in systems, automation, and real-world problem solving.  
-Currently working mainly with **Java** and **PHP**, while expanding into **Systems Engineering** and infrastructure-level concepts.
+Software engineering student primarily working with Java, with an interest in software systems, automation, and real-world problem solving.
+Comfortable with C# / ASP.NET and JavaScript, and eager to adapt to different stacks as needed. Expanding into **Systems Engineering** and infrastructure-level concepts.
 
 ---
 
@@ -41,7 +41,7 @@ Data is retrieved from MÁV’s GraphQL-based API.
 Java · PHP · JavaScript · C# · Python  
 
 **Backend & Systems**  
-REST APIs · ASP.NET · Backend-focused PHP architecture  
+REST APIs · ASP.NET · Spring Boot
 
 **Databases**  
 MySQL · MongoDB
