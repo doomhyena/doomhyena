@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update Dev Stats
-        uses: anmol098/waka-readme-stats@master
+        uses: anmol098/waka-readme-stats@v2.2.0
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
