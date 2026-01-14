@@ -17,7 +17,7 @@ Collection of backend-heavy PHP projects with minimal frontends.
 Focused on clean architecture, reusable logic, and fully implemented features.  
 **Tech:** PHP, MySQL, JavaScript
 
-### 🔹 [Frontend Portfolio]https://github.com/doomhyena/Frontend-portfolio) `[D]`
+### 🔹 [Frontend Portfolio](https://github.com/doomhyena/Frontend-portfolio) `[D]`
 This repository contains my frontend projects built primarily with Next.js (TypeScript) and React.js (JavaScript). The goal of these projects is to practice modern frontend development, experiment with new technologies, and showcase my skills.
 **Tech:** Next.js, React.js, TypeScript, JavaScript
 
