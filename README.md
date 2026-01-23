@@ -1,7 +1,7 @@
 # Anastasia 👾
 
 Software engineering student primarily working with Java, with an interest in software systems, automation, and real-world problem solving.
-Comfortable with JavaScript / Nodejs and & ReactJS, and eager to adapt to different stacks as needed. Expanding into **Systems Engineering** and infrastructure-level concepts.
+Comfortable with JavaScript / ReactJS & NodeJS and Java, and eager to adapt to different stacks as needed. Expanding into **Systems Engineering** and infrastructure-level concepts.
 
 ---
 
