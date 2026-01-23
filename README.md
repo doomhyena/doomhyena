@@ -33,13 +33,6 @@ Data is retrieved from MÁV’s GraphQL-based API.
 
 ---
 
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 🧠 Core Stack
 
 **Languages**  
