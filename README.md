@@ -22,15 +22,6 @@ This repository contains my frontend projects built primarily with Next.js (Type
 The goal of these projects is to practice modern frontend development, experiment with new technologies, and showcase my skills.  
 **Tech:** Next.js, React.js, TypeScript, JavaScript
 
-### 🔹 [BookBase](https://github.com/doomhyena/BookBase) `[F]`
-Online book platform with user profiles, ratings, and community-oriented features.  
-**Tech:** PHP, MySQL, JavaScript, HTML/CSS
-
-### 🔹 [MÁVTracker](https://github.com/doomhyena/MAVTracker) `[F]`
-Real-time web-based map application displaying live train positions, speed, and delays for Hungarian State Railways (MÁV).  
-Data is retrieved from MÁV’s GraphQL-based API.  
-**Tech:** PHP, JavaScript, MySQL, GraphQL API
-
 ---
 
 ## 🧠 Core Stack
