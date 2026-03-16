@@ -58,4 +58,4 @@ Git · Linux / Windows · VS Code · Visual Studio · JetBrains IDEs
 - GitHub: https://github.com/doomhyena  
 - Stack Overflow: https://stackoverflow.com/users/25722312  
 - Discord: https://discordapp.com/users/864583234158460938  
-- Email: csontoskincso@doomhyena.hu
+- Email: contact@doomhyena.hu
