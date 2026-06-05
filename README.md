@@ -20,6 +20,5 @@
 <a href="https://stackoverflow.com/users/25722312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25722312" height="30" width="40" /></a>
 <a href="https://instagram.com/anasztazia.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anasztazia.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/doomhyena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="doomhyena" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/doomhyena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="doomhyena" height="30" width="40" /></a>
 <a href="https://discord.gg/XFte257XBc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XFte257XBc" height="30" width="40" /></a>
 </p>
