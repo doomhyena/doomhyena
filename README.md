@@ -16,7 +16,7 @@
 
 
 <h3 align="center">Statistics:</h3>
-<p align="center">
+<p>
   
 ![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
