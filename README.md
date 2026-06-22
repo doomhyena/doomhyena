@@ -16,7 +16,7 @@
 
 
 <h3 align="center">Statistics:</h3>
-<p>
+<div align="center">
   
 ![doomhyena's Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
@@ -24,7 +24,7 @@
 
 ![doomhyena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
-</p>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
